@@ -5,7 +5,7 @@ def start(update, context):
 
 def main():
     # Замените YOUR_TELEGRAM_TOKEN на ваш токен Telegram
-    updater = Updater(token='YOUR_TELEGRAM_TOKEN', use_context=True)
+    updater = Updater(token='7039655596:AAF1qI4pk2QAK702DCEgp-XisMQ0ifi6jGM', use_context=True)
     dispatcher = updater.dispatcher
 
     # Добавляем обработчик команды /start
